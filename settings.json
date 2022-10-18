@@ -1,0 +1,18 @@
+{
+    // Visual Studio API: 
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "GitHub Dark",
+
+    // Viual Studio Theme: https://code.visualstudio.com/api/references/theme-color
+    "workbench.colorCustomizations": {
+        //"activityBar.activeBackground": "#ff7a01"
+
+
+        // Status Bar
+        "statusBar.background": "#ff0000",
+        "statusBar.foreground":"#ffffff",
+        "statusBarItem.hoverBackground": "#f91880"
+    
+    }
+    
+}
