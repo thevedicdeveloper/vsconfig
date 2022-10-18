@@ -1,3 +1,4 @@
+```JSON
 {
     // Visual Studio API: 
     "workbench.iconTheme": "material-icon-theme",
@@ -16,3 +17,4 @@
     }
     
 }
+```
