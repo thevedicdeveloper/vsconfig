@@ -6,7 +6,7 @@
     "editor.accessibilitySupport": "off",
     
     // Editor Font
-    "editor.fontFamily": "Comic Sans MS",
+    // "editor.fontFamily": "Comic Sans MS",
     "editor.fontLigatures": false,
     "editor.fontSize": 16,
     "editor.fontWeight": "normal",
@@ -22,9 +22,6 @@
     "terminal.integrated.fontFamily": "monospace",
     "terminal.integrated.fontSize": 16,
     "terminal.integrated.smoothScrolling": true,
-
-    // Terminal Cursor
-    "terminal.integrated.cursorStyle":"underline",
     "terminal.integrated.cursorBlinking": true,
 
     // Cursor
@@ -63,6 +60,32 @@
     },
     "explorer.confirmDragAndDrop": false,
     "remoteHub.commitDirectlyWarning": "off",
+    "terminal.integrated.defaultProfile.osx": "fish",
+    "terminal.integrated.cursorStyle": "underline",
+    "terminal.integrated.defaultProfile.windows": "",
+    "[dart]": {
+        "editor.formatOnSave": true,
+        "editor.formatOnType": true,
+        "editor.rulers": [
+            80
+        ],
+        "editor.selectionHighlight": false,
+        "editor.suggest.snippetsPreventQuickSuggestions": false,
+        "editor.suggestSelection": "first",
+        "editor.tabCompletion": "onlySnippets",
+        "editor.wordBasedSuggestions": false
+    },
+    "git.autofetch": true,
+    "githubPullRequests.createOnPublishBranch": "never",
+    "git.confirmSync": false,
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "[css]": {
+        "editor.defaultFormatter": "vscode.css-language-features"
+    },
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "typescript.updateImportsOnFileMove.enabled": "always",
 
 }
 ```
